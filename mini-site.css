@@ -1,0 +1,30 @@
+.cabeça{
+    display:flex;
+    height: 100px;
+    width: 800px;
+    align-items: center;
+    justify-content: center;
+}
+.cabeça1{
+    display: flex;
+    width: 1440px;
+    height:10px ;
+    justify-content:flex-end;
+    align-items: center;
+    
+}
+.abaixocabeça{
+    display:flex;
+    height: 300PX;
+    width:1440PX;
+    justify-self: center;
+    font-size: 88px;
+
+
+}
+.imagem{
+    display:flex;
+    align-self:flex end;
+    justify-content: flex-end;
+
+}
